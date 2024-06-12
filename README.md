@@ -1,3 +1,12 @@
+1. npm init
+2. npm install --save-dev sass
+3. npm install bootstrap --save
+4. npm install @fortawesome/fontawesome-free --save
+5. npm install postcss-cli autoprefixer --save
+6. edit package.json "compile:sass": "sass --watch scss:assets/css"
+7. create folder scss, dan file style.scss
+8. npm run compile:sass
+
 # Bootstrap 5 Portfolio Template
 
 ### TEMPLATE SCREENSHOT
